@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "83a87b8bfefe417d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1a1f7cbd21fc564",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Conjuros.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b77532a08651a4f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d407f3ec1cc6cdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ad942643e9e4ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f4cb76cd24ade53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0c4a6729b1d9f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "885114be3b1b4d95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deae0bf89fa51ba2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conjuros.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11533c42775b5a90",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "active": "deae0bf89fa51ba2",
+  "lastOpenFiles": [
+    "Bestiario.md",
+    "Armas.md",
+    "Conjuros.md",
+    "Historia.md",
+    "Objetos Mágicos.md",
+    "Propiedades Armas.md",
+    "Rasgos.md",
+    "Tienda.md",
+    "Heroes/Personaje.md",
+    "Imagenes Bestiario/wolf.png"
+  ]
+}
