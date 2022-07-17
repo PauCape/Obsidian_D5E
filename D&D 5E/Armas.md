@@ -98,7 +98,18 @@
 **Categoria**: Armas de fuego
 **Para golpear**: DES
 **Daño**: 1d10 + Des Perforante
-**Precio**: 30 Po
+**Precio**: 250 Po
 **Peso**: 3 Lb
+>
+[[Propiedades Armas#Munición|Munición]], [[Propiedades Armas#Ligera|Ligera]], [[Propiedades Armas#Distancia|Distancia]], [[Propiedades Armas#Especial|Especial]]
+
+## Mosquete
+>
+**Tipo de objeto**: Armas
+**Categoria**: Armas de fuego
+**Para golpear**: DES
+**Daño**: 1d12 + Des Perforante
+**Precio**: 500 Po
+**Peso**: 4 Lb
 >
 [[Propiedades Armas#Munición|Munición]], [[Propiedades Armas#Ligera|Ligera]], [[Propiedades Armas#Distancia|Distancia]], [[Propiedades Armas#Especial|Especial]]

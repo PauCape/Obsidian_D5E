@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "right": {
     "id": "e0c4a6729b1d9f2d",
@@ -79,32 +79,24 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "11533c42775b5a90",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 277.5
   },
-  "active": "deae0bf89fa51ba2",
+  "active": "c1a1f7cbd21fc564",
   "lastOpenFiles": [
-    "Bestiario.md",
-    "Armas.md",
-    "Conjuros.md",
-    "Historia.md",
-    "Objetos Mágicos.md",
-    "Propiedades Armas.md",
     "Rasgos.md",
     "Tienda.md",
     "Heroes/Personaje.md",
+    "Objetos Mágicos.md",
+    "Conjuros.md",
+    "Armas.md",
+    "Propiedades Armas.md",
+    "Bestiario.md",
+    "Historia.md",
     "Imagenes Bestiario/wolf.png"
   ]
 }

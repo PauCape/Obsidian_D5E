@@ -345,3 +345,46 @@ Una oscuridad mágica se expande desde un punto que elijas dentro del alcance ha
 Si el punto que eliges está en un objeto que sostienes o uno que nadie lleva puesto ni transporta, la oscuridad emana del objeto y se mueve con él. Cubrir el objeto completamente con algo opaco, como un cuenco o un yelmo, bloquea la oscuridad.
 >
 Si cualquier parte de esta área del conjuro se solapa con un área de luz creada por un conjuro de nivel 2 o inferior, el conjuro que ha creado la luz se disipa.
+
+## Curar Heridas
+>
+**Nivel 1, Evocación**
+>
+**Componentes**: V, S  
+**Tiempo de lanzamiento**: 1 Acción  
+**Alcance**: Toque  
+**Duración**: Instantáneo  
+**Listas de conjuros**: Conjuros de explorador, Conjuros de paladín, Conjuros de bardo, Conjuros de clérigo, Conjuros de druida y Lista de conjuros de artífice  
+>
+Una criatura que tocas recupera un número de puntos de golpe igual a **1d8** + tu modificador por característica para lanzar conjuros. Este conjuro no tiene efecto ni en no muertos ni en constructos.
+>
+**En niveles superiores** - Cuando lanzas este conjuro usando un espacio de conjuro de nivel 2 o superior, la curación aumentan **1d8** por cada nivel por encima del nivel 1.
+
+## Fuego Feérico
+>
+**Nivel 1, Evocación**
+>
+**Componentes**: V  
+**Tiempo de lanzamiento**: 1 Acción  
+**Alcance**: 60 Pies (20 Pies)  
+**Duración**: Concentración 1 minuto  
+**Tirada de salvación**: Destreza niega  
+**Listas de conjuros**: Conjuros de bardo, Conjuros de druida y Lista de conjuros de artífice  
+>
+El conjuro ilumina con luz azul, verde o violeta, a tu elección, el contorno de todos los objetos en un cubo de 20 pies dentro del alcance. Se ilumina también el contorno de cualquier criatura dentro del área que falle una tirada de salvación de Destreza. Hasta el final de la duración del conjuro, los objetos y criaturas afectados emiten luz tenue en un radio de 10 pies.
+>
+Todas las tiradas de ataque contra una criatura u objeto afectado tienen ventaja si el atacante puede ver a su objetivo. Además, aunque sean invisibles no recibirán ninguno de los beneficios de ese estado mientras sigan afectados por fuego feérico.
+
+## Palabra de Curación
+>
+**Nivel 1, Evocación**
+> 
+**Componentes**: V  
+**Tiempo de lanzamiento**: 1 Acción adicional  
+**Alcance**: 60 Pies  
+**Duración**: Instantáneo  
+**Listas de conjuros**: Conjuros de bardo, Conjuros de clérigo y Conjuros de druida  
+>
+Una criatura de tu elección que puedas ver dentro del alcance recupera puntos de golpe iguales a **1d4** + tu modificador por característica para lanzar conjuros. Este conjuro no tiene efecto ni en no muertos ni en constructos.
+>
+**En niveles superiores** - Cuando lanzas este conjuro usando un espacio de conjuro de nivel 2 o superior, la cantidad de los puntos recuperados aumenta en **1d4** por cada nivel por encima de 1.
