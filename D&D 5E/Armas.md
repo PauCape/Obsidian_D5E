@@ -113,3 +113,14 @@
 **Peso**: 4 Lb
 >
 [[Propiedades Armas#Munición|Munición]], [[Propiedades Armas#Ligera|Ligera]], [[Propiedades Armas#Distancia|Distancia]], [[Propiedades Armas#Especial|Especial]]
+
+## Cimitarra
+>
+**Tipo de objeto**: Armas
+**Categoría**: Armas marciales
+**Para golpear**: FUE
+**Daño**: 1d6 + FUE Cortante
+**Precio**: 25 Po
+**Peso**: 3 Lb
+>
+[[Propiedades Armas#Ligera|Ligera]], [[Propiedades Armas#Sutil|Sutil]]

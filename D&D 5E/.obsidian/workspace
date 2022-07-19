@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conjuros.md",
-            "mode": "preview",
+            "file": "Armas.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conjuros.md",
+                "file": "Armas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c1a1f7cbd21fc564",
   "lastOpenFiles": [
-    "Rasgos.md",
-    "Tienda.md",
-    "Heroes/Personaje.md",
-    "Objetos Mágicos.md",
     "Conjuros.md",
-    "Armas.md",
-    "Propiedades Armas.md",
+    "Heroes/Personaje.md",
     "Bestiario.md",
+    "Tienda.md",
+    "Rasgos.md",
+    "Propiedades Armas.md",
+    "Objetos Mágicos.md",
     "Historia.md",
+    "Armas.md",
     "Imagenes Bestiario/wolf.png"
   ]
 }
